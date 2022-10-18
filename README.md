@@ -1,4 +1,4 @@
-# Biology-Hexagonal_self_organizing_map (SOM)
+# Biology- Hexagonal self organizing map (SOM)
 
 
 הקבצים כוללים את הקבצים עם הקוד עצמו, קובץ הרצה, והדוח המפורט.
