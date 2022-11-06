@@ -34,9 +34,8 @@ When the run is finished, a window opens with the graph that contains all 10 dif
 
 
 ### Running
-To run, double-click the covidModel.exe file that appears in the zip folder we uploaded.
-You need to make sure that the following libraries are installed on the device before running:
-pygame, matplotlib, numpy, tkinter.
+To run, enter to the folder that contains the main.exe executable file and the text file Elec_24.csv (which was provided to us), then click (double click) on the file: main.exe. A window will open that will display the 10 solutions of the hexagon board, and finally a graph will be displayed that describes the average distance, and the list of cities with their mapping will appear on the terminal page that opens automatically.
+
 
 
 ## Future improvements
